@@ -7,7 +7,6 @@ use App\Contracts\MessageInterface;
 use App\Contracts\QuestionFactoryInterface;
 use App\Contracts\QuestionGeneratorInterface;
 use App\Contracts\QuestionInterface;
-use App\Contracts\ResponseFactoryAbstraction;
 use App\Contracts\ResponseFactoryInterface;
 use App\Contracts\ResultCollectorInterface;
 use App\Contracts\StorageInterface;
