@@ -1,0 +1,18 @@
+body {
+    font-family: 'Nunito', sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+button {
+    min-width: 70px;
+    margin: 5px;
+}
+
+.container,
+.container > div,
+.container > div > div {
+    padding: 10px;
+}
