@@ -23,3 +23,7 @@ npm run build
 ```php
 App\Providers\AppServiceProvider::boot()
 ```
+
+#### 5. Demo:
+
+https://www.cube-systems.kilograms.lv/
